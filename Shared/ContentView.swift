@@ -21,6 +21,27 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 
+// 修改了 Working Copy 的部分内容
+
+
+// 比如增加了这些新的备注
+
+
+// Xcode 会在左侧用蓝条标注
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Apple
 
 // Complicated Function
@@ -31,3 +52,5 @@ struct ContentView_Previews: PreviewProvider {
 // Stable Version. For App Store.
 
 // Field Branch. 
+
+// Stash Changes
